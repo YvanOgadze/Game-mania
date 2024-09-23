@@ -1,0 +1,20 @@
+body {
+    margin: 0 0 2em 2em;
+    color: rgb(58, 57, 57);
+}
+a {
+    color: green;
+}
+a:hover {
+    background-color: yellow;
+}
+
+li {
+    list-style-type: none;
+}
+h1 {
+    color: green;
+}
+h2 {
+    color: rgb(173, 173, 27);
+}
